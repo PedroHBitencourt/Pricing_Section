@@ -31,8 +31,8 @@ como CSS grid, CSS flexbox e utilização de códigos do tipo 'font'.
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#1864ab](https://via.placeholder.com/10/1864ab?text=+) #1864ab |
-| Cor exemplo       | ![#f5f5f5](https://via.placeholder.com/10/f5f5f5?text=+) #f5f5f5 |
+| Cor exemplo       | #1864ab |
+| Cor exemplo       | #f5f5f5 |
 
 
 
